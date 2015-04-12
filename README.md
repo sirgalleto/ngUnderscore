@@ -1,6 +1,11 @@
 # ngUnderscore
 A sexy reference to underscore.js for angular. 
 
+# Installation
+```
+bower install --save ngUnderscore
+```
+
 # Usage
 ```
 angular
@@ -10,9 +15,4 @@ angular
         [1, 2, 3], function(num){ return num * 3; }
       );
   });
-```
-
-## Installation
-```
-bower install --save ngUnderscore
 ```
