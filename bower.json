@@ -5,7 +5,7 @@
     "Sebastian Osorio <svzosorio@boolinc.co>"
   ],
   "description": "underscore factory for angularjs",
-  "main": "ngUnderscore.js",
+  "main": "ng-underscore.js",
   "keywords": [
     "underscore",
     "ngUnderscore",
