@@ -1,2 +1,2 @@
 # ngUnderscore
-A sexy reference to the underscore.js for angular. 
+A sexy reference to underscore.js for angular. 
