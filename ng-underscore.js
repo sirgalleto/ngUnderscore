@@ -2,7 +2,7 @@
     'use strict';
 
     angular
-        .module('ng-underscore', [])
+        .module('ngUnderscore', [])
         .factory('_',ngUnderscore);
 
         function ngUnderscore($window){
