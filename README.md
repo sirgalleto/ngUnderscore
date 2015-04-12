@@ -14,5 +14,5 @@ angular
 
 ## Installation
 ```
-bower install --save ngUnderscore.js
+bower install --save ngUnderscore
 ```
