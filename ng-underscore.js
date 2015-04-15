@@ -3,6 +3,7 @@
 
     angular
         .module('ngUnderscore', [])
+        
         .factory('_',ngUnderscore);
 
         function ngUnderscore($window){
