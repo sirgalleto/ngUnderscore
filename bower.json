@@ -1,6 +1,6 @@
 {
   "name": "ngUnderscore",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [
     "Sebastian Osorio <svzosorio@boolinc.co>"
   ],
@@ -10,6 +10,9 @@
     "underscore",
     "ngUnderscore",
     "angular"
+  ],
+  "ignore": [
+      "/bower_components"
   ],
   "license": "MIT",
   "dependencies": {
