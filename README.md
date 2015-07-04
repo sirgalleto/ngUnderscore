@@ -1,5 +1,5 @@
 # ngUnderscore
-A sexy reference to underscore.js for angular. 
+A sexy reference to underscore.js for angular.
 
 # Installation
 ```
@@ -11,8 +11,8 @@ bower install --save ngUnderscore
 angular
   .module('boolApp', ['ngUnderscore'])
   .controller('BoolController', function ($scope, _) {
-      $scope.array = _.map(
-        [1, 2, 3], function(num){ return num * 3; }
+      $scope.sum = _.reduce(
+        _.range(10), function(sum, num){ return sum + (num * 3); }, 0
       );
   });
 ```
